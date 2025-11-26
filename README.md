@@ -33,6 +33,7 @@
             <img class="badge" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             <img class="badge" src="https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle" alt="Oracle SQL">
         <h2>Feature</h2>
+
             <ul>
                 <li>✅ <strong>Enterprise-Level Java Web Apps</strong></li>
                 <li>✅ <strong>Efficient ORM with Hibernate</strong></li>
@@ -50,5 +51,6 @@
         </div>
             <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF">
     </div>
+   
 </body>
 </html>

@@ -59,7 +59,10 @@ I build **scalable web applications**, focusing on **clean UI, efficient backend
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mane-Sushant&show_icons=true&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mane-Sushant&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -67,7 +70,10 @@ I build **scalable web applications**, focusing on **clean UI, efficient backend
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mane-Sushant&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mane-Sushant&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -75,5 +81,9 @@ I build **scalable web applications**, focusing on **clean UI, efficient backend
 ## 💻 Coding in Action
 
 <p align="center">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/coding.gif" width="400"/>
+  <img
+    src="YOUR-GIF-URL-HERE"
+    width="600"
+    alt="Coding in Action"
+  />
 </p>
